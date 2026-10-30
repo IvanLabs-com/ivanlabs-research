@@ -1,0 +1,80 @@
+{
+ "sites_total": 40,
+ "status": {
+  "ok": 17,
+  "no_sitemap_found": 4,
+  "blocked": 13,
+  "robots_disallows_ua": 5,
+  "timeout": 1
+ },
+ "sites_ok": 17,
+ "files_analysed": 154,
+ "declared_in_robots": 17,
+ "declared_count_median": 7,
+ "declared_count_max": 434,
+ "use_index": 16,
+ "nested_index": 0,
+ "index_children_median": 159.5,
+ "index_children_max": 2316,
+ "index_lastmod_sites": 10,
+ "index_lastmod_identical": [
+  "www.airbnb.com",
+  "www.booking.com",
+  "www.kayak.com",
+  "www.walmart.com"
+ ],
+ "url_lastmod_sites": 12,
+ "urls_per_file_median": 7674.0,
+ "urls_per_file_max": 50000,
+ "files_at_50000": 21,
+ "files_ge_45000": 31,
+ "files_empty": 2,
+ "files_over_limit": 0,
+ "bytes_max": 49961165,
+ "scheme_parts": {
+  "content_type": 15,
+  "numeric_shard": 10,
+  "locale": 3,
+  "geography": 1,
+  "date": 2
+ },
+ "scheme_ambiguous": [
+  "reverb.com",
+  "www.target.com"
+ ],
+ "sites_with_query_urls": [
+  "reverb.com",
+  "www.bestbuy.com",
+  "www.ebay.com"
+ ],
+ "sites_with_other_host_urls": [
+  "www.bbc.com",
+  "www.nytimes.com"
+ ],
+ "sites_with_non_https_urls": [
+  "www.bbc.com"
+ ],
+ "sites_hreflang": [
+  "www.cnn.com",
+  "www.ikea.com"
+ ],
+ "sites_image": [
+  "www.cnn.com",
+  "www.ebay.com",
+  "www.ikea.com",
+  "www.nytimes.com",
+  "www.theguardian.com"
+ ],
+ "sites_video": [
+  "www.ikea.com",
+  "www.theguardian.com"
+ ],
+ "sites_news": [
+  "www.cnn.com",
+  "www.nytimes.com",
+  "www.theguardian.com"
+ ],
+ "sites_nonstandard_ns": [
+  "www.kayak.com"
+ ]
+}

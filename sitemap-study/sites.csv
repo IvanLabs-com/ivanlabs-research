@@ -1,0 +1,41 @@
+vertical,host,reason
+marketplace,www.ebay.com,Global auction and fixed-price marketplace with a very large item and category URL space
+marketplace,www.etsy.com,Handmade and vintage marketplace with millions of seller listings
+marketplace,www.mercadolivre.com.br,Largest Latin American marketplace (Brazil site); a non-English large catalogue
+marketplace,www.discogs.com,Music database and marketplace mixing UGC catalogue pages with listings
+marketplace,reverb.com,Vertical marketplace (music gear) with deep category and listing pages
+retail,www.walmart.com,US mass retailer with one of the largest product catalogues online
+retail,www.target.com,US retailer with a large product and category catalogue
+retail,www.bestbuy.com,Electronics retailer with faceted category navigation
+retail,www.ikea.com,Multi-country retailer; tests locale segmentation and hreflang in sitemaps
+retail,www.homedepot.com,Home-improvement retailer with a very large SKU count
+travel,www.booking.com,Accommodation platform with millions of property pages across locales
+travel,www.expedia.com,Online travel agency with hotel and destination landing pages
+travel,www.airbnb.com,Rentals platform with listing and location pages
+travel,www.kayak.com,Travel search with programmatic route and destination pages
+travel,www.skyscanner.net,Flight search with programmatic route pages in many markets
+real_estate_classifieds,www.zillow.com,US property portal with listing and location pages at very large scale
+real_estate_classifieds,www.realtor.com,US property listings portal
+real_estate_classifieds,www.redfin.com,US brokerage and listings portal
+real_estate_classifieds,www.rightmove.co.uk,UK property portal
+real_estate_classifieds,www.gumtree.com,UK general classifieds site
+jobs,www.indeed.com,Largest job search site; very large volume of short-lived listing URLs
+jobs,www.glassdoor.com,Jobs plus company review pages
+jobs,www.ziprecruiter.com,US job marketplace with programmatic job and location pages
+jobs,www.monster.com,Long-running job board
+jobs,www.simplyhired.com,Job search aggregator
+news,www.nytimes.com,Large news publisher with a deep archive
+news,www.theguardian.com,Large news publisher; uses news sitemaps
+news,www.bbc.com,International news publisher
+news,www.cnn.com,US news publisher with high article volume
+news,www.washingtonpost.com,US news publisher with a deep archive
+reference_ugc,en.wikipedia.org,Largest reference site; tests a site that may not rely on sitemaps
+reference_ugc,stackoverflow.com,Q&A site with millions of question pages
+reference_ugc,www.imdb.com,Film and TV reference database with title and name pages
+reference_ugc,www.quora.com,Q&A site with a very large question URL space
+reference_ugc,www.fandom.com,Wiki host with many large community wikis
+local_reviews,www.yelp.com,Local business review platform
+local_reviews,www.tripadvisor.com,Travel and local reviews with location-heavy URLs
+local_reviews,www.yellowpages.com,US business directory with location and category pages
+local_reviews,www.trustpilot.com,Business review platform with one page per reviewed company
+local_reviews,www.angi.com,Home-services directory and reviews with location and service pages

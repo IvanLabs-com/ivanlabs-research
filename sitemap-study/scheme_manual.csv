@@ -1,0 +1,18 @@
+host,scheme_manual,ambiguous,note
+www.ebay.com,content_type+numeric_shard,no,Filenames name the page type (KWSRP keyword pages; BROWSE; AUCTION) plus a shard number
+reverb.com,content_type+numeric_shard,yes,"csps1..5 plus brands; ""csps"" is not a self-describing type name"
+www.walmart.com,content_type,no,"category, store, help"
+www.target.com,content_type+numeric_shard,yes,One-letter folders (c/ and s/) plus four-digit shards; the letters look like page types but are not named
+www.bestbuy.com,content_type+numeric_shard,no,"pdp, promos, discover_learn, each .0000"
+www.ikea.com,locale+numeric_shard,no,Country/language folders with numbered files
+www.booking.com,content_type+locale+numeric_shard,no,"Page type, geography level and language, then .0000"
+www.airbnb.com,content_type+numeric_shard,no,"homes, custom_landing_pages, then a number"
+www.kayak.com,content_type,no,Market + vertical + page type in the name (kayak-us-car_static-city-...)
+www.skyscanner.net,content_type+locale+numeric_shard,no,Page type and market with numbered files
+www.zillow.com,content_type+numeric_shard,no,"Page type folders (hdp, directory_profile, lender_profile) with numbers or ?page= shards"
+www.rightmove.co.uk,content_type+geography,no,"properties / regions / outcodes, one file per postcode area or region"
+www.nytimes.com,date,no,Year/month files
+www.theguardian.com,content_type,no,"Two urlsets declared directly in robots.txt: news and video"
+www.bbc.com,content_type+numeric_shard,no,"Per-service files (afrique, arabic, ...) and paged archives (/page/N)"
+www.cnn.com,content_type+date,no,Section and year/month
+www.angi.com,content_type,no,"One file per service category (geocat-chimney-repair, ...) plus articles"

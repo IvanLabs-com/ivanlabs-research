@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 278" width="720" height="278" role="img" aria-label="Of 40 large sites, 17 served sitemaps to an identified research bot; the rest had no discoverable sitemap, disallowed unlisted bots, blocked the request or timed out.">
+<rect width="720" height="278" rx="8" fill="#FAFAF9"/>
+<rect width="720" height="44" rx="8" fill="#0F172A"/><rect y="36" width="720" height="8" fill="#0F172A"/>
+<text x="360.0" y="28" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#F9FAFB">What happened when a polite bot asked 40 large sites for their sitemaps</text>
+<text x="288" y="79" text-anchor="end" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#1A1A1A">Sitemaps read</text>
+<rect x="300" y="64" width="330" height="22" rx="3" fill="#E5E7EB"/>
+<rect x="300" y="64" width="140.2" height="22" rx="3" fill="#1346BE"/>
+<text x="640" y="79" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#1A1A1A">17 of 40</text>
+<text x="288" y="113" text-anchor="end" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#1A1A1A">No sitemap in robots.txt or default paths</text>
+<rect x="300" y="98" width="330" height="22" rx="3" fill="#E5E7EB"/>
+<rect x="300" y="98" width="33.0" height="22" rx="3" fill="#1346BE"/>
+<text x="640" y="113" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#1A1A1A">4 of 40</text>
+<text x="288" y="147" text-anchor="end" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#1A1A1A">robots.txt disallows unlisted bots</text>
+<rect x="300" y="132" width="330" height="22" rx="3" fill="#E5E7EB"/>
+<rect x="300" y="132" width="41.2" height="22" rx="3" fill="#1346BE"/>
+<text x="640" y="147" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#1A1A1A">5 of 40</text>
+<text x="288" y="181" text-anchor="end" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#1A1A1A">Blocked (403, 418, 429 or bot wall)</text>
+<rect x="300" y="166" width="330" height="22" rx="3" fill="#E5E7EB"/>
+<rect x="300" y="166" width="107.2" height="22" rx="3" fill="#1346BE"/>
+<text x="640" y="181" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#1A1A1A">13 of 40</text>
+<text x="288" y="215" text-anchor="end" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#1A1A1A">Timed out</text>
+<rect x="300" y="200" width="330" height="22" rx="3" fill="#E5E7EB"/>
+<rect x="300" y="200" width="8.2" height="22" rx="3" fill="#1346BE"/>
+<text x="640" y="215" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#1A1A1A">1 of 40</text>
+<text x="24" y="262" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#6B7280">IvanLabs Study A, 2026-10-30. User-Agent IvanLabsResearch/1.0, robots.txt respected, ≤15 requests per site.</text>
+</svg>

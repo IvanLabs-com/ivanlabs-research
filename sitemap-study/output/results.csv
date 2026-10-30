@@ -1,0 +1,41 @@
+vertical,host,status,declared_in_robots,n_declared,index_levels,n_child_sitemaps,scheme,scheme_ambiguous,pct_index_lastmod,identical_child_lastmod,nonstandard_ns,n_sampled,requests,note
+marketplace,www.ebay.com,ok,True,7,1,589,numeric_shard,False,100.0,False,False,10,14,
+marketplace,www.etsy.com,no_sitemap_found,False,0,0,0,none,True,,,False,0,3,no sitemap at declared or fallback locations
+marketplace,www.mercadolivre.com.br,no_sitemap_found,False,0,0,0,none,True,,,False,0,3,no sitemap at declared or fallback locations
+marketplace,www.discogs.com,blocked,False,0,0,0,,,,,False,0,1,403 https://www.discogs.com/robots.txt
+marketplace,reverb.com,ok,True,44,1,7,unclassified,True,100.0,False,False,8,11,
+retail,www.walmart.com,ok,True,32,1,4,content_type,False,100.0,True,False,6,8,
+retail,www.target.com,ok,True,6,1,22,numeric_shard,False,0.0,False,False,10,14,
+retail,www.bestbuy.com,ok,True,11,1,3,numeric_shard,False,100.0,False,False,3,7,
+retail,www.ikea.com,ok,True,1,1,2265,mixed:locale+numeric_shard,False,0.0,False,False,10,12,
+retail,www.homedepot.com,blocked,False,0,0,0,,,,,False,0,1,403 https://www.homedepot.com/robots.txt
+travel,www.booking.com,ok,True,434,1,133,mixed:content_type+locale+numeric_shard,False,100.0,True,False,10,14,
+travel,www.expedia.com,blocked,False,0,0,0,,,,,False,0,2,403 https://www.expedia.com/sitemap.xml
+travel,www.airbnb.com,ok,True,1,1,176,mixed:content_type+numeric_shard,False,100.0,True,False,10,12,
+travel,www.kayak.com,ok,True,1,1,95,content_type,False,100.0,True,True,10,12,
+travel,www.skyscanner.net,ok,True,1,1,824,mixed:content_type+locale+numeric_shard,False,0.0,False,False,10,12,
+real_estate_classifieds,www.zillow.com,ok,True,15,1,217,mixed:content_type+numeric_shard,False,0.0,False,False,10,14,
+real_estate_classifieds,www.realtor.com,blocked,True,10,0,0,,,,,False,0,2,429 https://www.realtor.com/mortgage/sitemap/mortgagesitemap.xml
+real_estate_classifieds,www.redfin.com,blocked,True,57,0,0,,,,,False,0,2,403 https://www.redfin.com/newest_listings.xml
+real_estate_classifieds,www.rightmove.co.uk,ok,True,5,1,545,unclassified,True,100.0,False,False,10,14,
+real_estate_classifieds,www.gumtree.com,blocked,True,12,1,127,mixed:date+numeric_shard,False,100.0,False,False,2,7,247 https://www.gumtree.com/xmlsitemap/vip2/sitemap-2026-10-28-10.xml
+jobs,www.indeed.com,no_sitemap_found,False,0,0,0,none,True,,,False,0,3,no sitemap at declared or fallback locations
+jobs,www.glassdoor.com,blocked,False,0,0,0,,,,,False,0,2,403 https://www.glassdoor.com/sitemap.xml
+jobs,www.ziprecruiter.com,robots_disallows_ua,False,0,0,0,none,True,,,False,0,1,robots.txt disallows unlisted user agents
+jobs,www.monster.com,no_sitemap_found,False,0,0,0,none,True,,,False,0,3,no sitemap at declared or fallback locations
+jobs,www.simplyhired.com,blocked,False,0,0,0,,,,,False,0,1,403 https://www.simplyhired.com/robots.txt
+news,www.nytimes.com,ok,True,25,1,2316,date,False,100.0,False,False,11,14,
+news,www.theguardian.com,ok,True,2,0,0,content_type,False,,,False,2,3,
+news,www.bbc.com,ok,True,39,1,12,mixed:content_type+numeric_shard,False,0.0,False,False,12,14,
+news,www.cnn.com,ok,True,13,1,143,mixed:content_type+date,False,100.0,False,False,11,14,
+news,www.washingtonpost.com,timeout,True,7,0,0,unclassified,True,,,False,0,4,robots.txt answered; every sitemap request timed out
+reference_ugc,en.wikipedia.org,blocked,True,1,0,0,,,,,False,0,2,403 https://en.wikipedia.org/w/rest.php/site/v1/sitemap/0
+reference_ugc,stackoverflow.com,blocked,False,0,0,0,,,,,False,0,1,418 https://stackoverflow.com/robots.txt
+reference_ugc,www.imdb.com,robots_disallows_ua,False,0,0,0,none,True,,,False,0,1,robots.txt disallows unlisted user agents
+reference_ugc,www.quora.com,robots_disallows_ua,False,0,0,0,none,True,,,False,0,1,robots.txt disallows unlisted user agents
+reference_ugc,www.fandom.com,blocked,False,0,0,0,,,,,False,0,1,403 https://www.fandom.com/robots.txt
+local_reviews,www.yelp.com,robots_disallows_ua,False,0,0,0,none,True,,,False,0,1,robots.txt disallows unlisted user agents
+local_reviews,www.tripadvisor.com,blocked,True,8,0,0,,,,,False,0,2,403 https://www.tripadvisor.com/sitemap/2/en_US/sitemap_en_US_index.xml
+local_reviews,www.yellowpages.com,blocked,False,0,0,0,,,,,False,0,1,403 https://www.yellowpages.com/robots.txt
+local_reviews,www.trustpilot.com,robots_disallows_ua,True,3,0,0,locale,False,,,False,0,1,robots.txt disallows unlisted user agents
+local_reviews,www.angi.com,ok,True,6,1,384,unclassified,True,0.0,False,False,11,14,

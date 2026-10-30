@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Raw responses and private inputs never leave this machine
+data/
+*/data/
+cache/
+*/cache/
+
+# Search Console exports (never commit)
+*.gsc.csv
