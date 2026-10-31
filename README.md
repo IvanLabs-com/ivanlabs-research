@@ -25,3 +25,7 @@ python3 analyze.py    # aggregates output/ into stats.json and the SVG charts
 ```
 
 Later folders list their own dependencies.
+
+## Licence
+
+Code is MIT ([`LICENSE`](LICENSE)). Results, charts and summaries are CC BY 4.0 ([`LICENSE-DATA.md`](LICENSE-DATA.md)). Please cite as "IvanLabs Research (Ivan Popov)" with a link to the study folder.
