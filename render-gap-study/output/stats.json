@@ -1,0 +1,53 @@
+{
+ "sites_total": 30,
+ "site_status": {
+  "blocked": 9,
+  "ok": 15,
+  "no_framework_marker": 6
+ },
+ "sites_analysed": 15,
+ "frameworks_by_site": {
+  "nuxt": 3,
+  "angular": 1,
+  "nextjs": 6,
+  "sveltekit": 2,
+  "remix": 2,
+  "gatsby": 1
+ },
+ "pages_analysed": 41,
+ "pages_excluded": [
+  {
+   "host": "www.nike.com",
+   "page_type": "listing",
+   "reason": "render produced no text"
+  },
+  {
+   "host": "www.braun.com",
+   "page_type": "listing",
+   "reason": "same path as another page"
+  }
+ ],
+ "median_pct_rendered_words_in_raw": 95.4,
+ "pages_ge_90pct": 27,
+ "pages_50_to_90pct": 12,
+ "pages_lt_50pct": 2,
+ "title_in_raw": 41,
+ "description_in_raw": 36,
+ "canonical_in_raw": 35,
+ "h1_in_raw": 37,
+ "h1_in_rendered": 36,
+ "h1_only_after_render": 1,
+ "h1_gone_after_render": 2,
+ "title_changed_by_js": 2,
+ "description_changed_by_js": 1,
+ "canonical_changed_by_js": 1,
+ "h1_changed_by_js": 2,
+ "robots_meta_differs": 1,
+ "pages_more_links_after_render": 22,
+ "pages_10pct_more_links_after_render": 7,
+ "pages_with_no_href_clickables": 10,
+ "pages_with_query_links": 19,
+ "sites_with_query_links": 9,
+ "max_query_links_on_a_page": 88,
+ "pages_render_timeout": 5
+}

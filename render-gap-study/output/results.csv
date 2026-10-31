@@ -1,0 +1,31 @@
+host,vertical,expected,detected,status,note,pages
+www.zillow.com,real_estate,nextjs,nextjs,blocked,rendered 403 https://www.zillow.com/,0
+www.hulu.com,media,nextjs,nextjs,ok,,3
+www.notion.com,saas,nextjs,nextjs,ok,,3
+vercel.com,saas,nextjs,nextjs,blocked,challenge https://vercel.com/docs,0
+linear.app,saas,nextjs,nextjs,ok,,3
+www.hashicorp.com,saas,nextjs,,blocked,429 https://www.hashicorp.com/robots.txt,0
+www.nike.com,retail,nextjs,nextjs,ok,,3
+www.ticketmaster.com,events,nextjs,nextjs,blocked,rendered 403 https://www.ticketmaster.com/,0
+nuxt.com,developer_docs,nuxt,nuxt,ok,,3
+about.gitlab.com,saas,nuxt,nuxt,ok,,3
+www.upwork.com,marketplace,nuxt,,blocked,403 https://www.upwork.com/,0
+www.backmarket.com,retail,nuxt,nuxt,ok,,3
+www.ecosia.org,search,nuxt,,blocked,403 https://www.ecosia.org/,0
+angular.dev,developer_docs,angular,angular,ok,,3
+www.ryanair.com,travel,angular,,no_framework_marker,,
+www.delta.com,travel,angular,,no_framework_marker,,
+www.forbes.com,news,angular,,blocked,403 https://www.forbes.com/,0
+www.ups.com,logistics,angular,,blocked,challenge https://www.ups.com/,0
+svelte.dev,developer_docs,sveltekit,sveltekit,ok,,3
+pudding.cool,media,sveltekit,sveltekit,ok,,2
+www.square-enix-games.com,gaming,sveltekit,,no_framework_marker,,
+remix.run,developer_docs,remix,,no_framework_marker,,
+www.shopify.com,saas,remix,remix,ok,,3
+reactrouter.com,developer_docs,remix,remix,ok,,2
+www.docker.com,saas,remix,,no_framework_marker,,
+www.gatsbyjs.com,developer_docs,gatsby,gatsby,ok,,3
+www.figma.com,saas,gatsby,nextjs,blocked,403 https://www.figma.com/community/category/ui-kits,0
+www.digitalocean.com,saas,gatsby,nextjs,ok,"expected gatsby, detected nextjs",3
+www.braun.com,retail,gatsby,nextjs,ok,"expected gatsby, detected nextjs",3
+www.airbnb.io,engineering_blog,gatsby,,no_framework_marker,,

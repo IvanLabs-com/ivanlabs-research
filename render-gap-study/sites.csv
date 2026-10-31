@@ -1,0 +1,31 @@
+expected_framework,host,vertical,reason
+nextjs,www.zillow.com,real_estate,Large listings platform; served sitemaps in Study A
+nextjs,www.hulu.com,media,Streaming catalogue with many title pages
+nextjs,www.notion.com,saas,SaaS marketing site with template gallery pages
+nextjs,vercel.com,saas,Framework vendor's own site with docs and templates
+nextjs,linear.app,saas,SaaS with changelog and docs listing/detail pages
+nextjs,www.hashicorp.com,saas,Large docs and product site
+nextjs,www.nike.com,retail,Retail catalogue with category and product pages
+nextjs,www.ticketmaster.com,events,Events marketplace with listing and event pages
+nuxt,nuxt.com,developer_docs,Framework vendor's own site with module listing and detail pages
+nuxt,about.gitlab.com,saas,Large marketing site with blog listing and articles
+nuxt,www.upwork.com,marketplace,Freelance marketplace with category and profile pages
+nuxt,www.backmarket.com,retail,Refurbished-electronics marketplace with category and product pages
+nuxt,www.ecosia.org,search,Search engine site with blog listing and articles
+angular,angular.dev,developer_docs,Framework vendor's own docs site
+angular,www.ryanair.com,travel,Airline with route and destination pages
+angular,www.delta.com,travel,Airline with destination and deal pages
+angular,www.forbes.com,news,Publisher with section listings and articles
+angular,www.ups.com,logistics,Large corporate site with service listing and detail pages
+sveltekit,svelte.dev,developer_docs,Framework vendor's own docs and tutorial site
+sveltekit,pudding.cool,media,Visual-essay publisher with archive and story pages
+sveltekit,www.square-enix-games.com,gaming,Game publisher catalogue with listing and game pages
+remix,remix.run,developer_docs,Framework vendor's own site with docs and blog
+remix,www.shopify.com,saas,Large commerce SaaS marketing site
+remix,reactrouter.com,developer_docs,Docs site from the same team with listing and detail pages
+remix,www.docker.com,saas,Large product and docs marketing site
+gatsby,www.gatsbyjs.com,developer_docs,Framework vendor's own site with plugin listing and detail pages
+gatsby,www.figma.com,saas,Design SaaS with community and template pages
+gatsby,www.digitalocean.com,saas,Cloud provider with large tutorial listing and article pages
+gatsby,www.braun.com,retail,Consumer-electronics retailer with category and product pages
+gatsby,www.airbnb.io,engineering_blog,Engineering site with listing and project pages

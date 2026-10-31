@@ -1,0 +1,9 @@
+{
+ "started": "2026-10-31T02:16:07+00:00",
+ "finished": "2026-10-31T02:33:35+00:00",
+ "raw_user_agent": "IvanLabsResearch/1.0 (+https://ivanlabs.com/contact/)",
+ "render_user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+ "sites": 30,
+ "pages": 43,
+ "requests": 141
+}

@@ -24,6 +24,8 @@ python3 study.py      # fetches; writes output/ (and data/, cache/ locally)
 python3 analyze.py    # aggregates output/ into stats.json and the SVG charts
 ```
 
+Study B (`render-gap-study/`) needs Playwright and a browser (`requirements.txt`). It ran inside a throwaway Incus container with Google Chrome, using `STUDY_BROWSER_CHANNEL=chrome`, so nothing was installed on the host.
+
 Later folders list their own dependencies.
 
 ## Licence
